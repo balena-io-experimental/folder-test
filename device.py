@@ -79,4 +79,5 @@ def iothub_client_telemetry_sample_run():
 if __name__ == '__main__':
     print ( "IoT Hub balenaOS device..." )
     print ( "Starting to send data." )
+    print ( "If you are seeing this, we've deployed the wrong repo for the folder test." )
     iothub_client_telemetry_sample_run()
